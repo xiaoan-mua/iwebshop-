@@ -1,0 +1,2 @@
+前台：http://localhost:8088/iwebshop5.9/index.php?controller=site&action=index
+后台：http://localhost:8088/iwebshop5.9/index.php?controller=admin&action=index
